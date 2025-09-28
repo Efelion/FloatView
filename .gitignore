@@ -72,6 +72,14 @@ artifacts/
 # Microsoft Azure Web App publish settings
 PublishProfiles/
 
+# Release files and distribution packages
+release/
+FloatView-v*.exe
+FloatView-v*.zip
+INSTALL.txt
+RELEASE-README.txt
+Run-FloatView.bat
+
 # Others
 *.log
 *.tmp

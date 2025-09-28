@@ -1,4 +1,4 @@
-// Reactive Overlay Host — Multi-Window Browser Source Manager
+// FloatView — Multi-Window Browser Source Manager
 // -------------------------------------------------------------------------------------------------
 // Purpose: A Windows application that manages multiple transparent browser source windows
 // for streaming overlays. Each browser source gets its own resizable, movable window.
