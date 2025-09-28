@@ -21,7 +21,7 @@ FloatView supports any web-based content that works in modern browsers, includin
 
 - 📺 **Streaming overlays** (alerts, chat widgets, donation goals)
 - 🎮 **OBS-compatible browser sources** 
-- 💬 **Discord talking heads** (like [Reactive by Fuji](https://github.com/Fugi/reactive))
+- 💬 **Discord talking heads** (like [Reactive by Fuji](https://reactive.fugi.tech))
 - 📊 **Dashboard widgets** and monitoring tools
 - 🌐 **Any web application** or interactive content
 
